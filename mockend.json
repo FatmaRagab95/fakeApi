@@ -1,7 +1,9 @@
 {
+  "game": {
     "id": "int",
     "title": "string",
     "body": "string",
     "img": "string",
     "category": "string"
+  }
 }
